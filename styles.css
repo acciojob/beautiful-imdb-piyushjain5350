@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+	background-color:lightblue;
+}
+img{
+	height:300px;
+	width:300px;
+	opacity:0.7;
+}
+p{
+	position:absolute;
+	top:320px;
+	width:500px;
+	text-align:center;
+	font-size:20px;
+}
